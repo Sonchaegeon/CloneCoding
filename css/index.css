@@ -6,6 +6,11 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    text-decoration: underline;
+    opacity: 0.85;
+}
+
 header {
     text-align: right;
     font-size: 13px;
@@ -25,7 +30,17 @@ header {
     padding: 6px 12px;
 }
 
+.login:link{
+    text-decoration: none;
+    opacity: 1;
+}
+
 .menu{
     position: relative;
     top: 5px;
+    opacity: 0.5;
+}
+
+.menu:hover{
+    opacity: 1;
 }
