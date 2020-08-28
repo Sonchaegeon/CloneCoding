@@ -44,3 +44,13 @@ header {
 .menu:hover{
     opacity: 1;
 }
+
+.middle{
+    text-align: center;
+    padding-top: 165px;
+}
+
+.logo{
+    height: 92px;
+    width: 272px;
+}
