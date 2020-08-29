@@ -54,3 +54,20 @@ header {
     height: 92px;
     width: 272px;
 }
+
+.bar{
+    top: 20px;
+    position: relative;
+    margin: 0 auto;
+    width:575px;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc
+}
+
+.search{
+    height: 45px;
+    border: none;
+    width: 500px;
+    font-size: 16px;
+    outline: none;
+}
